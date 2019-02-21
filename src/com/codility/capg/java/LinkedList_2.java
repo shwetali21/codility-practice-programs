@@ -1,4 +1,4 @@
-package com.capg.codility.java;
+package com.codility.capg.java;
 
 /**Write a function: 
  * class Solution { public int solution(IntList L); }

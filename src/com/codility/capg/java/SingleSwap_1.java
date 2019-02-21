@@ -1,4 +1,4 @@
-package com.capg.codility.java;
+package com.codility.capg.java;
 
 
 /**Write a function :-

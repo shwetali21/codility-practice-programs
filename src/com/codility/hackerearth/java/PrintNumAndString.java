@@ -1,4 +1,4 @@
-package com.hackerearth.codility.java;
+package com.codility.hackerearth.java;
 
 import java.io.BufferedReader;
 import java.io.IOException;

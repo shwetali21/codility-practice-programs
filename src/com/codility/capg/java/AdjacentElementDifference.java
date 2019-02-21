@@ -1,4 +1,4 @@
-package com.capg.codility.java;
+package com.codility.capg.java;
 
 /**Program to find the least difference between two adjacent elements in an array.*/
 
